@@ -1,5 +1,5 @@
 # 👋 Hello devs!!
-Tenho 18 anos, moro em Taubaté–SP e estou procurando me aprofundar em front-end. Estou bemmmm no comecinho de tudo e estou muito animada pelo que vem pela frente!
+Tenho 18 anos, moro em Taubaté–SP e estou procurando me aprofundar em back-end/front-end. Estou bemmmm no comecinho de tudo e estou muito animada pelo que vem pela frente!
   <h2 dir="auto">
     📚 Ferramentas que estou aprendendo
   </h2>
